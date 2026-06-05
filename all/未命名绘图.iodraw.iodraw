@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="8Ncq_IWSrTaVwgH3jFse-0" value="BMDM培养与TY1处理" style="whiteSpace=wrap;strokeWidth=2;rounded=1;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8Ncq_IWSrTaVwgH3jFse-0" value="BMDM培养与TY1处理" style="whiteSpace=wrap;strokeWidth=2;rounded=1;strokeColor=default;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="530" width="70" height="48" as="geometry" />
         </mxCell>
         <mxCell id="8Ncq_IWSrTaVwgH3jFse-1" value="mRNA-seq测序" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
