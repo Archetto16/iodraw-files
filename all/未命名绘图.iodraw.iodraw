@@ -28,7 +28,7 @@
         <mxCell id="8Ncq_IWSrTaVwgH3jFse-34" value="胞葬与代谢组检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Ncq_IWSrTaVwgH3jFse-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8Ncq_IWSrTaVwgH3jFse-35" value="体外机制: siRNA KD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
