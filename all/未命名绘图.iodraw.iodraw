@@ -4,10 +4,10 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="8Ncq_IWSrTaVwgH3jFse-0" value="BMDM培养与TY1处理" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8Ncq_IWSrTaVwgH3jFse-0" value="BMDM培养与TY1处理" style="whiteSpace=wrap;strokeWidth=2;rounded=1;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="530" width="70" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="8Ncq_IWSrTaVwgH3jFse-1" value="mRNA-seq测序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8Ncq_IWSrTaVwgH3jFse-1" value="mRNA-seq测序" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="418" y="546" width="164" height="48" as="geometry" />
         </mxCell>
         <mxCell id="8Ncq_IWSrTaVwgH3jFse-2" value="生物信息学分析" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -40,7 +40,7 @@
         <mxCell id="8Ncq_IWSrTaVwgH3jFse-11" value="机制阐明与论文撰写" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2540" y="546" width="204" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="8Ncq_IWSrTaVwgH3jFse-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;strokeColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Ncq_IWSrTaVwgH3jFse-0" target="8Ncq_IWSrTaVwgH3jFse-1">
+        <mxCell id="8Ncq_IWSrTaVwgH3jFse-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;strokeColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Ncq_IWSrTaVwgH3jFse-0" target="8Ncq_IWSrTaVwgH3jFse-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="520" />
