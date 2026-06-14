@@ -76,8 +76,8 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-24" value="&lt;div&gt;空载对照组&lt;/div&gt;&lt;div&gt;野生型启动子组&lt;/div&gt;&lt;div&gt;野生型 + STAT3 过表达组&lt;/div&gt;&lt;div&gt;突变型 + STAT3 过表达组&lt;/div&gt;&lt;div&gt;野生型 + IL-10 刺激组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1390" y="220" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-25" value="BMDM治疗干预模型&#xa;空白对照组&#xa;单纯炎症模型组&#xa;炎症 + 阴性 ncRNA 组&#xa;炎症 + TY1 治疗组" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="210" width="150" height="80" as="geometry" />
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-25" value="C57BL/6J模型&lt;br&gt;空白对照组&lt;br&gt;单纯炎症模型组&lt;br&gt;炎症 + 阴性 ncRNA 组&lt;br&gt;炎症 + TY1 治疗组" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
