@@ -70,7 +70,7 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-22" value="&lt;div&gt;双荧光素酶报告基因 + 位点突变验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1415" y="170" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-23" value="&lt;div&gt;细胞分组：对照组、TY1 处理组&lt;/div&gt;&lt;div&gt;富集体系（每组均设置）：Input 对照、IgG 抗体阴性对照、STAT3 特异性抗体&lt;/div&gt;&lt;div&gt;检测位点：Slc7a2 启动子预测的 3 个结合位点（优先验证 1864 bp 高得分位点）&lt;/div&gt;&lt;div&gt;对照位点：Socs3 启动子（经典 STAT3 靶基因，技术阳性对照）、远端基因组区域（阴性背景对照）&lt;/div&gt;&lt;div&gt;检测指标：STAT3 抗体富集倍数（% Input 法计算）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-23" value="细胞分组：对照组、TY1 处理组&#xa;富集体系（每组均设置）：Input 对照、IgG 抗体阴性对照、STAT3 特异性抗体&#xa;检测位点：Slc7a2 启动子预测的 3 个结合位点（优先验证 1864 bp 高得分位点）&#xa;对照位点：Socs3 启动子（经典 STAT3 靶基因，技术阳性对照）、远端基因组区域（阴性背景对照）&#xa;检测指标：STAT3 抗体富集倍数（% Input 法计算）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1235" y="220" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-24" value="&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;cGAMP 单独处理组&lt;/div&gt;&lt;div&gt;cGAMP + TY1 组&lt;/div&gt;&lt;div&gt;LPS + TY1 阳性对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
