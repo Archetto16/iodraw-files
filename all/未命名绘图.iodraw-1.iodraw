@@ -55,7 +55,7 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-17" value="&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;cGAMP 单独处理组&lt;/div&gt;&lt;div&gt;cGAMP + TY1 组&lt;/div&gt;&lt;div&gt;LPS + TY1 阳性对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1080" y="220" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-18" value="p-STAT3 / 总 STAT3、SLC7A2、Arg1 的蛋白与 mRNA 表达；cGAS-STING 通路分子（p-TBK1、p-IRF3）表达；胞葬效率；" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-18" value="p-STAT3 / 总 STAT3、SLC7A2、Arg1 的蛋白与 mRNA 表达；cGAS-STING 通路分子（p-TBK1、p-IRF3）表达；胞葬效率；STAT3 抗体富集倍数；" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="970" y="330" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-19" value="&lt;div&gt;转录验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
