@@ -14,7 +14,7 @@
           <mxGeometry y="180" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-1" value="BMDM治疗干预模型&#xa;空白对照组&#xa;单纯炎症模型组&#xa;炎症 + 阴性 ncRNA 组&#xa;炎症 + TY1 治疗组" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="155" y="190" width="150" height="80" as="geometry" />
+          <mxGeometry x="155" y="190" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;分子表达：Slc7a2、Slc7a3、Arg1、iNOS、Cd206、Stat3 mRNA 及总蛋白，p-STAT3 磷酸化水平&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;转运功能：³H 标记精氨酸摄取实验，测定精氨酸跨膜转运速率&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;代谢水平：LC-MS 靶向定量胞内精氨酸、鸟氨酸、腐胺、亚精胺、精胺含量&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;胞葬功能：pHrodo 标记凋亡心肌细胞，台盼蓝淬灭胞外荧光，流式 / 共聚焦定量胞葬效率&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;能量代谢：Seahorse XFe96 检测 OCR 与 ECAR，评估细胞代谢重编程&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-5" y="320" width="310" height="150" as="geometry" />
@@ -76,8 +76,8 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-24" value="&lt;div&gt;空载对照组&lt;/div&gt;&lt;div&gt;野生型启动子组&lt;/div&gt;&lt;div&gt;野生型 + STAT3 过表达组&lt;/div&gt;&lt;div&gt;突变型 + STAT3 过表达组&lt;/div&gt;&lt;div&gt;野生型 + IL-10 刺激组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1390" y="220" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-25" value="C57BL/6J动物模型&lt;br&gt;&lt;div&gt;假手术组（Sham）&lt;/div&gt;&lt;div&gt;I/R 模型组&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;I/R + TY1 给药组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="305" y="190" width="150" height="80" as="geometry" />
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-25" value="&lt;b&gt;C57BL/6J动物模型&lt;/b&gt;&lt;br&gt;&lt;div&gt;假手术组（Sham）&lt;/div&gt;&lt;div&gt;I/R 模型组&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;I/R + TY1 给药组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="305" y="190" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-26" value="&lt;div&gt;3 d：巨噬细胞 SLC7A2 表达、胞内代谢物、体内胞葬效率、血清炎症因子&lt;/div&gt;&lt;div&gt;7 d：巨噬细胞极化比例、梗死边缘区微血管密度&lt;/div&gt;&lt;div&gt;28 d：心功能、梗死面积、心肌纤维化程度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="320" y="300" width="150" height="110" as="geometry" />
