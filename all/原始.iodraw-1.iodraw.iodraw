@@ -81,11 +81,6 @@
             <mxPoint x="720" y="515" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="f8MsiV0pTiyCVByV6mbH-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="515.0434782608697" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-13" value="实验 3 STAT3调控SLC7A2 机制探索" style="rounded=1;html=1;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="750" y="450" width="160" height="60" as="geometry" />
         </mxCell>
@@ -111,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-19" value="&lt;div&gt;转录验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="890" y="530" width="90" height="30" as="geometry" />
+          <mxGeometry x="890" y="520" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-20" target="f8MsiV0pTiyCVByV6mbH-17">
           <mxGeometry relative="1" as="geometry" />
