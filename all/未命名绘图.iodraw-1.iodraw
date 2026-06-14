@@ -32,7 +32,10 @@
           <mxGeometry x="660" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-9" value="&lt;div&gt;完全培养基对照组&lt;/div&gt;&lt;div&gt;无精氨酸培养基组&lt;/div&gt;&lt;div&gt;精氨酸梯度回补组&lt;/div&gt;&lt;div&gt;无亮氨酸对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="650" y="200" width="150" height="100" as="geometry" />
+          <mxGeometry x="650" y="200" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-10" value="&lt;div&gt;完全培养基对照组&lt;/div&gt;&lt;div&gt;无精氨酸培养基组&lt;/div&gt;&lt;div&gt;精氨酸梯度回补组&lt;/div&gt;&lt;div&gt;无亮氨酸对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
