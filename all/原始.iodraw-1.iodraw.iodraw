@@ -76,7 +76,7 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-16" value="&lt;div&gt;STAT3 抑制剂功能验证&lt;/div&gt;&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;TY1 单独处理组&lt;/div&gt;&lt;div&gt;Stattic 单独处理组&lt;/div&gt;&lt;div&gt;Stattic + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="930" y="220" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;cGAMP 单独处理组&lt;/div&gt;&lt;div&gt;cGAMP + TY1 组&lt;/div&gt;&lt;div&gt;LPS + TY1 阳性对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-17" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cGAMP 共处理&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;空白对照组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;cGAMP 单独处理组&lt;/div&gt;&lt;div&gt;cGAMP + TY1 组&lt;/div&gt;&lt;div&gt;LPS + TY1 阳性对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1080" y="220" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-18" value="p-STAT3 / 总 STAT3、SLC7A2、Arg1 的蛋白与 mRNA 表达；cGAS-STING 通路分子（p-TBK1、p-IRF3）表达；胞葬效率；STAT3 抗体富集倍数；双荧光素酶活性比值" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
