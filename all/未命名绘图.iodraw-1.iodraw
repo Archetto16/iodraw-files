@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MWHuIxbTJ088CmKB5TWG-1" target="MWHuIxbTJ088CmKB5TWG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-1" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: 宋体;&quot; lang=&quot;EN-US&quot;&gt;TY1&lt;/span&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;调控巨噬细胞&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;SLC7A2&lt;/span&gt;介导的精氨酸摄取促进胞葬改善心梗后修复的机制研究&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="10" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-2" value="实验一 TY1 调控巨噬细胞 SLC7A2 表达与胞葬功能的表型验证" style="rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="190" y="100" width="160" height="60" as="geometry" />
+          <mxGeometry x="125" y="100" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-3" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;BMDM预防干预模型&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;空白对照组&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;转染试剂对照组&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;阴性对照 ncRNA 组&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;单纯炎症模型组&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TY1 低剂量 + 炎症组&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TY1 中剂量 + 炎症组&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TY1 高剂量 + 炎症组&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="130" y="190" width="150" height="120" as="geometry" />
