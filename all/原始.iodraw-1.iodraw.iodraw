@@ -73,17 +73,14 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-14" value="&lt;div&gt;cGAMP 共处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="170" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-15" value="&lt;div&gt;STAT3 抑制剂功能验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="170" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-16" value="&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;TY1 单独处理组&lt;/div&gt;&lt;div&gt;Stattic 单独处理组&lt;/div&gt;&lt;div&gt;Stattic + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-16" value="&lt;div&gt;STAT3 抑制剂功能验证&lt;/div&gt;&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;TY1 单独处理组&lt;/div&gt;&lt;div&gt;Stattic 单独处理组&lt;/div&gt;&lt;div&gt;Stattic + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="930" y="220" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-17" value="&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;cGAMP 单独处理组&lt;/div&gt;&lt;div&gt;cGAMP + TY1 组&lt;/div&gt;&lt;div&gt;LPS + TY1 阳性对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1080" y="220" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-18" value="p-STAT3 / 总 STAT3、SLC7A2、Arg1 的蛋白与 mRNA 表达；cGAS-STING 通路分子（p-TBK1、p-IRF3）表达；胞葬效率；STAT3 抗体富集倍数；双荧光素酶活性比值" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="470" width="190" height="150" as="geometry" />
+          <mxGeometry x="1110" y="540" width="470" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-19" value="&lt;div&gt;转录验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1320" y="120" width="90" height="30" as="geometry" />
