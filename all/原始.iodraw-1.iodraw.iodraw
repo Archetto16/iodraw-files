@@ -125,13 +125,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-23" value="&lt;div&gt;&lt;b&gt;ChIP-qPCR 结合验证&lt;/b&gt;&lt;/div&gt;细胞分组：对照组、TY1 处理组&lt;div&gt;富集体系&lt;span style=&quot;background-color: initial;&quot;&gt;：Input 对照、IgG 抗体阴性对照、STAT3 特异性抗体&lt;/span&gt;&lt;/div&gt;&lt;div&gt;检测位点：Slc7a2 启动子预测的 3 个结合位点（优先验证 1864 bp 高得分位点）对照位点：Socs3 启动子（经典 STAT3 靶基因，技术阳性对照）、远端基因组区域（阴性背景对照）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="755" y="535" width="265" height="100" as="geometry" />
+          <mxGeometry x="755" y="535" width="295" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-24" target="f8MsiV0pTiyCVByV6mbH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-24" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;双荧光素酶报告基因 + 位点突变验证&lt;/b&gt;&lt;/div&gt;&lt;div&gt;空载对照组&lt;/div&gt;&lt;div&gt;野生型启动子组&lt;/div&gt;&lt;div&gt;野生型 + STAT3 过表达组&lt;/div&gt;&lt;div&gt;突变型 + STAT3 过表达组&lt;/div&gt;&lt;div&gt;野生型 + IL-10 刺激组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="535" width="140" height="100" as="geometry" />
+          <mxGeometry x="1070" y="535" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-25" target="f8MsiV0pTiyCVByV6mbH-26">
           <mxGeometry relative="1" as="geometry" />
