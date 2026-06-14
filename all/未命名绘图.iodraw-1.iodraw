@@ -59,22 +59,22 @@
           <mxGeometry x="970" y="330" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-19" value="&lt;div&gt;转录验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="130" width="90" height="30" as="geometry" />
+          <mxGeometry x="1320" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-20" value="&lt;div&gt;通路验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1010" y="140" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-21" value="&lt;div&gt;ChIP-qPCR 结合验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="170" width="90" height="30" as="geometry" />
+          <mxGeometry x="1250" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-22" value="&lt;div&gt;双荧光素酶报告基因 + 位点突变验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="170" width="90" height="30" as="geometry" />
+          <mxGeometry x="1415" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-23" value="&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;cGAMP 单独处理组&lt;/div&gt;&lt;div&gt;cGAMP + TY1 组&lt;/div&gt;&lt;div&gt;LPS + TY1 阳性对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="230" width="140" height="100" as="geometry" />
+          <mxGeometry x="1235" y="220" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-24" value="&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;cGAMP 单独处理组&lt;/div&gt;&lt;div&gt;cGAMP + TY1 组&lt;/div&gt;&lt;div&gt;LPS + TY1 阳性对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="240" width="140" height="100" as="geometry" />
+          <mxGeometry x="1390" y="220" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
