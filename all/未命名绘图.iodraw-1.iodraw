@@ -25,7 +25,7 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-6" value="&lt;div&gt;必须性验证&lt;/div&gt;&lt;div&gt;阴性对照 siRNA 组（si-NC）&lt;/div&gt;&lt;div&gt;si-NC + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a3 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2/A3 双敲 + TY1 组&lt;/div&gt;&lt;div&gt;BCH 抑制剂 + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="190" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-7" value="精氨酸摄取速率、胞内多胺含量、胞葬效率、M2 标志物（Arg1、CD206）表达；&lt;div&gt;同步检测 ATF4、CHOP 等氨基酸应激通路分子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-7" value="精氨酸摄取速率、胞内多胺含量、胞葬效率、M2 标志物（Arg1、CD206）表达；&lt;span style=&quot;background-color: initial;&quot;&gt;同步检测 ATF4、CHOP 等氨基酸应激通路分子；&lt;/span&gt;F-actin 肌动蛋白重排染色、Rac1 GTP 酶活性" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="330" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-8" value="&lt;div&gt;通路回复验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
