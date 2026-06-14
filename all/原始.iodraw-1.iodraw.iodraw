@@ -91,7 +91,7 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-26" value="&lt;div&gt;3 d：巨噬细胞 SLC7A2 表达、胞内代谢物、体内胞葬效率、血清炎症因子&lt;/div&gt;&lt;div&gt;7 d：巨噬细胞极化比例、梗死边缘区微血管密度&lt;/div&gt;&lt;div&gt;28 d：心功能、梗死面积、心肌纤维化程度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="425" y="320" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.508;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MWHuIxbTJ088CmKB5TWG-3" target="f8MsiV0pTiyCVByV6mbH-2">
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.556;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-1" target="f8MsiV0pTiyCVByV6mbH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
