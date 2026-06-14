@@ -17,22 +17,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-2" value="实验1 TY1 调控巨噬细胞 SLC7A2 表达与胞葬功能的表型验证" style="rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="490" y="80" width="190" height="60" as="geometry" />
+          <mxGeometry x="480" y="80" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MWHuIxbTJ088CmKB5TWG-3" target="f8MsiV0pTiyCVByV6mbH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-3" value="&lt;b&gt;BMDM预防干预模型&lt;/b&gt;&lt;br&gt;空白对照组&lt;br&gt;转染试剂对照组&lt;br&gt;阴性对照 ncRNA 组&lt;br&gt;单纯炎症模型组&lt;br&gt;TY1 低剂量 + 炎症组&lt;br&gt;TY1 中剂量 + 炎症组&lt;br&gt;TY1 高剂量 + 炎症组&#x9;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="370" y="180" width="120" height="130" as="geometry" />
+          <mxGeometry x="360" y="180" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-1" target="f8MsiV0pTiyCVByV6mbH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-1" value="&lt;b&gt;BMDM治疗干预模型&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;空白对照组&lt;br&gt;单纯炎症模型组&lt;br&gt;炎症 + 阴性 ncRNA 组&lt;br&gt;炎症 + TY1 治疗组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="526" y="180" width="120" height="130" as="geometry" />
+          <mxGeometry x="516" y="180" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;分子表达、精氨酸摄取速率、多胺代谢水平、胞葬效率、细胞能量代谢&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="370" y="350" width="200" height="80" as="geometry" />
+          <mxGeometry x="360" y="350" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-5" target="f8MsiV0pTiyCVByV6mbH-9">
           <mxGeometry relative="1" as="geometry" />
@@ -74,22 +74,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-13" value="实验 3 STAT3调控SLC7A2 机制探索" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="715" y="510" width="160" height="60" as="geometry" />
+          <mxGeometry x="720" y="450" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-16" target="f8MsiV0pTiyCVByV6mbH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-16" value="&lt;div&gt;&lt;b&gt;STAT3 抑制剂功能验证&lt;/b&gt;&lt;/div&gt;&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;TY1 单独处理组&lt;/div&gt;&lt;div&gt;Stattic 单独处理组&lt;/div&gt;&lt;div&gt;Stattic + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="485" y="595" width="130" height="100" as="geometry" />
+          <mxGeometry x="490" y="535" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-17" target="f8MsiV0pTiyCVByV6mbH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-17" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;cGAMP 共处理&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;空白对照组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;cGAMP 单独处理组&lt;/div&gt;&lt;div&gt;cGAMP + TY1 组&lt;/div&gt;&lt;div&gt;LPS + TY1 阳性对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="620" y="595" width="130" height="100" as="geometry" />
+          <mxGeometry x="625" y="535" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-18" value="p-STAT3 / 总 STAT3、SLC7A2、Arg1 的蛋白与 mRNA 表达；cGAS-STING 通路分子（p-TBK1、p-IRF3）表达；胞葬效率；STAT3 抗体富集倍数；双荧光素酶活性比值" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="595" y="735" width="470" height="80" as="geometry" />
+          <mxGeometry x="600" y="675" width="470" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-19" target="f8MsiV0pTiyCVByV6mbH-23">
           <mxGeometry relative="1" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-19" value="&lt;div&gt;转录验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="935" y="525" width="90" height="30" as="geometry" />
+          <mxGeometry x="940" y="465" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-20" target="f8MsiV0pTiyCVByV6mbH-17">
           <mxGeometry relative="1" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-20" value="&lt;div&gt;通路验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="565" y="525" width="90" height="30" as="geometry" />
+          <mxGeometry x="570" y="465" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-23" target="f8MsiV0pTiyCVByV6mbH-18">
           <mxGeometry relative="1" as="geometry" />
@@ -116,22 +116,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-23" value="&lt;div&gt;&lt;b&gt;ChIP-qPCR 结合验证&lt;/b&gt;&lt;/div&gt;细胞分组：对照组、TY1 处理组富集体系（每组均设置）：Input 对照、IgG 抗体阴性对照、STAT3 特异性抗体检测位点：Slc7a2 启动子预测的 3 个结合位点（优先验证 1864 bp 高得分位点）对照位点：Socs3 启动子（经典 STAT3 靶基因，技术阳性对照）、远端基因组区域（阴性背景对照）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="750" y="595" width="265" height="100" as="geometry" />
+          <mxGeometry x="755" y="535" width="265" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-24" target="f8MsiV0pTiyCVByV6mbH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-24" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;双荧光素酶报告基因 + 位点突变验证&lt;/b&gt;&lt;/div&gt;&lt;div&gt;空载对照组&lt;/div&gt;&lt;div&gt;野生型启动子组&lt;/div&gt;&lt;div&gt;野生型 + STAT3 过表达组&lt;/div&gt;&lt;div&gt;突变型 + STAT3 过表达组&lt;/div&gt;&lt;div&gt;野生型 + IL-10 刺激组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="595" width="140" height="100" as="geometry" />
+          <mxGeometry x="1030" y="535" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-25" target="f8MsiV0pTiyCVByV6mbH-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-25" value="&lt;b&gt;C57BL/6J动物模型&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;假手术组（Sham）&lt;/div&gt;&lt;div&gt;I/R 模型组&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;I/R + TY1 给药组&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="671" y="180" width="105" height="130" as="geometry" />
+          <mxGeometry x="661" y="180" width="105" height="130" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-26" value="&lt;div&gt;3 d：巨噬细胞 SLC7A2 表达、胞内代谢物、体内胞葬效率、血清炎症因子&lt;/div&gt;&lt;div&gt;7 d：巨噬细胞极化比例、梗死边缘区微血管密度&lt;/div&gt;&lt;div&gt;28 d：心功能、梗死面积、心肌纤维化程度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="581" y="350" width="235" height="80" as="geometry" />
+          <mxGeometry x="571" y="350" width="235" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
