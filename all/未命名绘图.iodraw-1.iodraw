@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MWHuIxbTJ088CmKB5TWG-1" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: 宋体;&quot; lang=&quot;EN-US&quot;&gt;TY1&lt;/span&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;调控巨噬细胞&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;SLC7A2&lt;/span&gt;介导的精氨酸摄取促进胞葬改善心梗后修复的机制研究&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="50" width="400" height="50" as="geometry" />
+          <mxGeometry width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-2" value="实验一 TY1 调控巨噬细胞 SLC7A2 表达与胞葬功能的表型验证" style="rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="80" y="150" width="160" height="60" as="geometry" />
+          <mxGeometry y="110" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-3" value="正常对照组（Control）完全培养基常规培养炎症模型组（M1）LPS + IFN-γ 持续刺激M1 + TY1 低剂量组LPS + IFN-γ + 低浓度 TY1 共处理M1 + TY1 中剂量组LPS + IFN-γ + 中浓度 TY1 共处理M1 + TY1 高剂量组LPS + IFN-γ + 高浓度 TY1 共处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="260" width="120" height="180" as="geometry" />
+          <mxGeometry y="230" width="120" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
