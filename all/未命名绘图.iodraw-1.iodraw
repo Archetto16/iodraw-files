@@ -11,7 +11,7 @@
           <mxGeometry x="80" y="150" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-3" value="正常对照组（Control）完全培养基常规培养炎症模型组（M1）LPS + IFN-γ 持续刺激M1 + TY1 低剂量组LPS + IFN-γ + 低浓度 TY1 共处理M1 + TY1 中剂量组LPS + IFN-γ + 中浓度 TY1 共处理M1 + TY1 高剂量组LPS + IFN-γ + 高浓度 TY1 共处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="320" width="120" height="70" as="geometry" />
+          <mxGeometry x="80" y="210" width="120" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
