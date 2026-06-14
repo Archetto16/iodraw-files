@@ -62,7 +62,7 @@
           <mxGeometry x="750" y="680" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-11" value="&lt;div&gt;必须性验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="640" width="80" height="30" as="geometry" />
+          <mxGeometry x="447.5" y="650" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-13" value="实验 3 STAT3调控SLC7A2 机制探索" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1110" y="70" width="160" height="60" as="geometry" />
