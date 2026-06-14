@@ -41,10 +41,10 @@
           <mxGeometry x="520" y="150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-13" value="实验 3 STAT3调控SLC7A2 机制探索" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="930" y="80" width="160" height="60" as="geometry" />
+          <mxGeometry x="1000" y="70" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-14" value="&lt;div&gt;STAT3 抑制剂功能验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="170" width="130" height="30" as="geometry" />
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-14" value="&lt;div&gt;cGAMP 共处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-15" value="&lt;div&gt;STAT3 抑制剂功能验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="170" width="130" height="30" as="geometry" />
