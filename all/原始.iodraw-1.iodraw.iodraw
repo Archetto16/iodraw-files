@@ -89,7 +89,7 @@
           <mxGeometry x="1065" y="220" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-18" value="p-STAT3 / 总 STAT3、SLC7A2、Arg1 的蛋白与 mRNA 表达；cGAS-STING 通路分子（p-TBK1、p-IRF3）表达；胞葬效率；STAT3 抗体富集倍数；双荧光素酶活性比值" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="470" width="470" height="80" as="geometry" />
+          <mxGeometry x="985" y="500" width="470" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-19" target="f8MsiV0pTiyCVByV6mbH-23">
           <mxGeometry relative="1" as="geometry" />
@@ -110,6 +110,9 @@
           <mxGeometry x="1105" y="160" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-23" target="f8MsiV0pTiyCVByV6mbH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-23" target="f8MsiV0pTiyCVByV6mbH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-23" value="&lt;div&gt;&lt;b&gt;ChIP-qPCR 结合验证&lt;/b&gt;&lt;/div&gt;细胞分组：对照组、TY1 处理组富集体系（每组均设置）：Input 对照、IgG 抗体阴性对照、STAT3 特异性抗体检测位点：Slc7a2 启动子预测的 3 个结合位点（优先验证 1864 bp 高得分位点）对照位点：Socs3 启动子（经典 STAT3 靶基因，技术阳性对照）、远端基因组区域（阴性背景对照）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
