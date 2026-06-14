@@ -17,7 +17,7 @@
           <mxGeometry x="290" y="200" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-2" value="分子表达：Slc7a2、Slc7a3、Arg1、iNOS、Cd206、Stat3 mRNA 及总蛋白，p-STAT3 磷酸化水平&#xa;转运功能：³H 标记精氨酸摄取实验，测定精氨酸跨膜转运速率&#xa;代谢水平：LC-MS 靶向定量胞内精氨酸、鸟氨酸、腐胺、亚精胺、精胺含量&#xa;胞葬功能：pHrodo 标记凋亡心肌细胞，台盼蓝淬灭胞外荧光，流式 / 共聚焦定量胞葬效率&#xa;能量代谢：Seahorse XFe96 检测 OCR 与 ECAR，评估细胞代谢重编程" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="130" y="350" width="380" height="80" as="geometry" />
+          <mxGeometry x="130" y="340" width="380" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
