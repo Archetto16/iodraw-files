@@ -70,8 +70,11 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-13" target="f8MsiV0pTiyCVByV6mbH-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-13" target="f8MsiV0pTiyCVByV6mbH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-13" value="实验 3 STAT3调控SLC7A2 机制探索" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="80" width="160" height="60" as="geometry" />
+          <mxGeometry x="1140" y="60" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-16" value="&lt;div&gt;&lt;b&gt;STAT3 抑制剂功能验证&lt;/b&gt;&lt;/div&gt;&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;TY1 单独处理组&lt;/div&gt;&lt;div&gt;Stattic 单独处理组&lt;/div&gt;&lt;div&gt;Stattic + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="930" y="220" width="140" height="100" as="geometry" />
