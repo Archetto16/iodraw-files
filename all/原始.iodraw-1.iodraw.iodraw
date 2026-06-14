@@ -10,7 +10,7 @@
         <mxCell id="MWHuIxbTJ088CmKB5TWG-2" value="实验1 TY1 调控巨噬细胞 SLC7A2 表达与胞葬功能的表型验证" style="rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="310" y="70" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MWHuIxbTJ088CmKB5TWG-3" value="BMDM预防干预模型&#xa;空白对照组&#xa;转染试剂对照组&#xa;阴性对照 ncRNA 组&#xa;单纯炎症模型组&#xa;TY1 低剂量 + 炎症组&#xa;TY1 中剂量 + 炎症组&#xa;TY1 高剂量 + 炎症组&#x9;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="MWHuIxbTJ088CmKB5TWG-3" value="&lt;b&gt;BMDM预防干预模型&lt;/b&gt;&lt;br&gt;空白对照组&lt;br&gt;转染试剂对照组&lt;br&gt;阴性对照 ncRNA 组&lt;br&gt;单纯炎症模型组&lt;br&gt;TY1 低剂量 + 炎症组&lt;br&gt;TY1 中剂量 + 炎症组&lt;br&gt;TY1 高剂量 + 炎症组&#x9;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry y="180" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-1" value="&lt;b&gt;BMDM治疗干预模型&lt;/b&gt;&lt;br&gt;空白对照组&lt;br&gt;单纯炎症模型组&lt;br&gt;炎症 + 阴性 ncRNA 组&lt;br&gt;炎症 + TY1 治疗组" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
