@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-5" value="实验 2 SLC7A2 介导 TY1 促胞葬效应的功能验证" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="610" y="490" width="160" height="60" as="geometry" />
+          <mxGeometry x="610" y="570" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;阴性对照 siRNA 组（si-NC）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;si-NC + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a3 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2/A3 双敲 + TY1 组&lt;/div&gt;&lt;div&gt;BCH 抑制剂 + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="680" width="150" height="100" as="geometry" />
