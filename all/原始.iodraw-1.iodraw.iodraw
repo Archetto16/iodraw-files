@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-3" value="&lt;b&gt;BMDM预防干预模型&lt;/b&gt;&lt;br&gt;空白对照组&lt;br&gt;转染试剂对照组&lt;br&gt;阴性对照 ncRNA 组&lt;br&gt;单纯炎症模型组&lt;br&gt;TY1 低剂量 + 炎症组&lt;br&gt;TY1 中剂量 + 炎症组&lt;br&gt;TY1 高剂量 + 炎症组&#x9;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="400" y="180" width="120" height="130" as="geometry" />
+          <mxGeometry x="354" y="180" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-1" target="f8MsiV0pTiyCVByV6mbH-2">
           <mxGeometry relative="1" as="geometry" />
