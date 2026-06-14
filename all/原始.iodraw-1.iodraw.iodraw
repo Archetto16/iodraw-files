@@ -26,7 +26,7 @@
           <mxGeometry x="340" y="160" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;分子表达、精氨酸摄取速率、多胺代谢水平、胞葬效率、细胞能量代谢&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="340" width="200" height="110" as="geometry" />
+          <mxGeometry x="210" y="320" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-5" value="实验 2 SLC7A2 介导 TY1 促胞葬效应的功能验证" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="735" y="560" width="160" height="60" as="geometry" />
@@ -89,7 +89,10 @@
           <mxGeometry x="470" y="160" width="105" height="130" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-26" value="&lt;div&gt;3 d：巨噬细胞 SLC7A2 表达、胞内代谢物、体内胞葬效率、血清炎症因子&lt;/div&gt;&lt;div&gt;7 d：巨噬细胞极化比例、梗死边缘区微血管密度&lt;/div&gt;&lt;div&gt;28 d：心功能、梗死面积、心肌纤维化程度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="435" y="340" width="150" height="110" as="geometry" />
+          <mxGeometry x="425" y="320" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.508;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MWHuIxbTJ088CmKB5TWG-3" target="f8MsiV0pTiyCVByV6mbH-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
