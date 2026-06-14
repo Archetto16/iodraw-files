@@ -10,8 +10,8 @@
         <mxCell id="MWHuIxbTJ088CmKB5TWG-2" value="实验一 TY1 调控巨噬细胞 SLC7A2 表达与胞葬功能的表型验证" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="150" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MWHuIxbTJ088CmKB5TWG-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="MWHuIxbTJ088CmKB5TWG-3" value="正常对照组（Control）完全培养基常规培养&#xa;炎症模型组（M1）LPS + IFN-γ 持续刺激&#xa;M1 + TY1 低剂量组LPS + IFN-γ + 低浓度 TY1 共处理&#xa;M1 + TY1 中剂量组LPS + IFN-γ + 中浓度 TY1 共处理&#xa;M1 + TY1 高剂量组LPS + IFN-γ + 高浓度 TY1 共处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
