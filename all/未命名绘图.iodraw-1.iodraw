@@ -19,8 +19,8 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;分子表达：Slc7a2、Slc7a3、Arg1、iNOS、Cd206、Stat3 mRNA 及总蛋白，p-STAT3 磷酸化水平&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;转运功能：³H 标记精氨酸摄取实验，测定精氨酸跨膜转运速率&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;代谢水平：LC-MS 靶向定量胞内精氨酸、鸟氨酸、腐胺、亚精胺、精胺含量&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;胞葬功能：pHrodo 标记凋亡心肌细胞，台盼蓝淬灭胞外荧光，流式 / 共聚焦定量胞葬效率&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;能量代谢：Seahorse XFe96 检测 OCR 与 ECAR，评估细胞代谢重编程&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="130" y="340" width="310" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-5" value="实验一 TY1 调控巨噬细胞 SLC7A2 表达与胞葬功能的表型验证" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="110" width="160" height="60" as="geometry" />
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-5" value="实验 2 SLC7A2 介导 TY1 促胞葬效应的功能必需性验证" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
