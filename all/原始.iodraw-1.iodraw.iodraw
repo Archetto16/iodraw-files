@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-1" value="&lt;b&gt;BMDM治疗干预模型&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;空白对照组&lt;br&gt;单纯炎症模型组&lt;br&gt;炎症 + 阴性 ncRNA 组&lt;br&gt;炎症 + TY1 治疗组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="180" width="120" height="130" as="geometry" />
+          <mxGeometry x="540" y="180" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;分子表达、精氨酸摄取速率、多胺代谢水平、胞葬效率、细胞能量代谢&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="354" y="350" width="200" height="80" as="geometry" />
