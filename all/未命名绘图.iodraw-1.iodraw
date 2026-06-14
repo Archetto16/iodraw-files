@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MWHuIxbTJ088CmKB5TWG-1" target="MWHuIxbTJ088CmKB5TWG-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-1" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;line-height: 115%; font-family: 宋体;&quot; lang=&quot;EN-US&quot;&gt;TY1&lt;/span&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;调控巨噬细胞&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;SLC7A2&lt;/span&gt;介导的精氨酸摄取促进胞葬改善心梗后修复的机制研究&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="10" width="400" height="50" as="geometry" />
         </mxCell>
