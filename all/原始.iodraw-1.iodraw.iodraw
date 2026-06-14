@@ -8,7 +8,7 @@
           <mxGeometry x="500" width="650" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-2" value="实验1 TY1 调控巨噬细胞 SLC7A2 表达与胞葬功能的表型验证" style="rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="310" y="70" width="160" height="60" as="geometry" />
+          <mxGeometry x="310" y="70" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MWHuIxbTJ088CmKB5TWG-3" value="BMDM预防干预模型&#xa;空白对照组&#xa;转染试剂对照组&#xa;阴性对照 ncRNA 组&#xa;单纯炎症模型组&#xa;TY1 低剂量 + 炎症组&#xa;TY1 中剂量 + 炎症组&#xa;TY1 高剂量 + 炎症组&#x9;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry y="180" width="150" height="120" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="-5" y="320" width="310" height="150" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-5" value="实验 2 SLC7A2 介导 TY1 促胞葬效应的功能验证" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="600" y="80" width="160" height="60" as="geometry" />
+          <mxGeometry x="600" y="70" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;阴性对照 siRNA 组（si-NC）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;si-NC + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a3 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2/A3 双敲 + TY1 组&lt;/div&gt;&lt;div&gt;BCH 抑制剂 + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="190" width="150" height="100" as="geometry" />
