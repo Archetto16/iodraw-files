@@ -49,6 +49,9 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-5" target="f8MsiV0pTiyCVByV6mbH-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-5" target="f8MsiV0pTiyCVByV6mbH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-5" value="实验 2 SLC7A2 介导 TY1 促胞葬效应的功能验证" style="rounded=1;html=1;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="965" y="90" width="160" height="60" as="geometry" />
         </mxCell>
