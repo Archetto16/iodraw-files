@@ -49,11 +49,11 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-15" value="&lt;div&gt;STAT3 抑制剂功能验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="170" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-16" value="&lt;div&gt;完全培养基 + TY1 组&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;无精氨酸 + TY1 组&lt;/div&gt;&lt;div&gt;精氨酸梯度回补 + TY1 组&lt;/div&gt;&lt;div&gt;多胺回补 + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-16" value="&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;TY1 单独处理组&lt;/div&gt;&lt;div&gt;Stattic 单独处理组&lt;/div&gt;&lt;div&gt;Stattic + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="930" y="220" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-17" value="&lt;div&gt;完全培养基 + TY1 组&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;无精氨酸 + TY1 组&lt;/div&gt;&lt;div&gt;精氨酸梯度回补 + TY1 组&lt;/div&gt;&lt;div&gt;多胺回补 + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="800" y="220" width="140" height="100" as="geometry" />
+          <mxGeometry x="1080" y="220" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
