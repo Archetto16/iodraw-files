@@ -29,7 +29,10 @@
           <mxGeometry x="480" y="330" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-8" value="&lt;div&gt;通路回复验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="160" width="80" height="30" as="geometry" />
+          <mxGeometry x="660" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-9" value="&lt;div&gt;必须性验证&lt;/div&gt;&lt;div&gt;阴性对照 siRNA 组（si-NC）&lt;/div&gt;&lt;div&gt;si-NC + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a3 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2/A3 双敲 + TY1 组&lt;/div&gt;&lt;div&gt;BCH 抑制剂 + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
