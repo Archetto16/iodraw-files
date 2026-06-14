@@ -46,7 +46,7 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-5" value="实验 2 SLC7A2 介导 TY1 促胞葬效应的功能验证" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="610" y="570" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;阴性对照 siRNA 组（si-NC）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;si-NC + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a3 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2/A3 双敲 + TY1 组&lt;/div&gt;&lt;div&gt;BCH 抑制剂 + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;阴性对照 siRNA 组（si-NC）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;si-NC + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a3 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2/A3 双敲 + TY1 组&lt;/div&gt;&lt;div&gt;BCH 抑制剂 + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="680" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-7" value="精氨酸摄取速率、胞内多胺含量、胞葬效率、M2 标志物（Arg1、CD206）表达；&lt;span style=&quot;background-color: initial;&quot;&gt;同步检测 ATF4、CHOP 等氨基酸应激通路分子；&lt;/span&gt;F-actin 肌动蛋白重排染色、Rac1 GTP 酶活性" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="750" y="680" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-11" value="&lt;div&gt;必须性验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="447.5" y="650" width="80" height="30" as="geometry" />
+          <mxGeometry x="345" y="555" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-13" value="实验 3 STAT3调控SLC7A2 机制探索" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1110" y="70" width="160" height="60" as="geometry" />
