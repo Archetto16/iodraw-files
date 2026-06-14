@@ -73,7 +73,7 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-16" value="&lt;div&gt;STAT3 抑制剂功能验证&lt;/div&gt;&lt;div&gt;空白对照组&lt;/div&gt;&lt;div&gt;TY1 单独处理组&lt;/div&gt;&lt;div&gt;Stattic 单独处理组&lt;/div&gt;&lt;div&gt;Stattic + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="930" y="220" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-17" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cGAMP 共处理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;空白对照组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;cGAMP 单独处理组&lt;/div&gt;&lt;div&gt;cGAMP + TY1 组&lt;/div&gt;&lt;div&gt;LPS + TY1 阳性对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-17" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;cGAMP 共处理&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;空白对照组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;cGAMP 单独处理组&lt;/div&gt;&lt;div&gt;cGAMP + TY1 组&lt;/div&gt;&lt;div&gt;LPS + TY1 阳性对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1080" y="220" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-18" value="p-STAT3 / 总 STAT3、SLC7A2、Arg1 的蛋白与 mRNA 表达；cGAS-STING 通路分子（p-TBK1、p-IRF3）表达；胞葬效率；STAT3 抗体富集倍数；双荧光素酶活性比值" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -85,7 +85,7 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-20" value="&lt;div&gt;通路验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1030" y="160" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f8MsiV0pTiyCVByV6mbH-23" value="&lt;div&gt;ChIP-qPCR 结合验证&lt;/div&gt;细胞分组：对照组、TY1 处理组富集体系（每组均设置）：Input 对照、IgG 抗体阴性对照、STAT3 特异性抗体检测位点：Slc7a2 启动子预测的 3 个结合位点（优先验证 1864 bp 高得分位点）对照位点：Socs3 启动子（经典 STAT3 靶基因，技术阳性对照）、远端基因组区域（阴性背景对照）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-23" value="&lt;div&gt;&lt;b&gt;ChIP-qPCR 结合验证&lt;/b&gt;&lt;/div&gt;细胞分组：对照组、TY1 处理组富集体系（每组均设置）：Input 对照、IgG 抗体阴性对照、STAT3 特异性抗体检测位点：Slc7a2 启动子预测的 3 个结合位点（优先验证 1864 bp 高得分位点）对照位点：Socs3 启动子（经典 STAT3 靶基因，技术阳性对照）、远端基因组区域（阴性背景对照）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1241" y="220" width="140" height="220" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-24" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;双荧光素酶报告基因 + 位点突变验证&lt;/b&gt;&lt;/div&gt;&lt;div&gt;空载对照组&lt;/div&gt;&lt;div&gt;野生型启动子组&lt;/div&gt;&lt;div&gt;野生型 + STAT3 过表达组&lt;/div&gt;&lt;div&gt;突变型 + STAT3 过表达组&lt;/div&gt;&lt;div&gt;野生型 + IL-10 刺激组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
