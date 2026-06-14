@@ -46,14 +46,23 @@
         <mxCell id="f8MsiV0pTiyCVByV6mbH-5" value="实验 2 SLC7A2 介导 TY1 促胞葬效应的功能验证" style="rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="610" y="570" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-6" target="f8MsiV0pTiyCVByV6mbH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;必须性验证&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;阴性对照 siRNA 组（si-NC）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;si-NC + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a3 + TY1 组&lt;/div&gt;&lt;div&gt;si-Slc7a2/A3 双敲 + TY1 组&lt;/div&gt;&lt;div&gt;BCH 抑制剂 + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="680" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-7" value="精氨酸摄取速率、胞内多胺含量、胞葬效率、M2 标志物（Arg1、CD206）表达；&lt;span style=&quot;background-color: initial;&quot;&gt;同步检测 ATF4、CHOP 等氨基酸应激通路分子；&lt;/span&gt;F-actin 肌动蛋白重排染色、Rac1 GTP 酶活性" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="800" width="410" height="80" as="geometry" />
+          <mxGeometry x="480" y="830" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-9" target="f8MsiV0pTiyCVByV6mbH-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-9" value="&lt;div&gt;通路回复验证（正常巨噬细胞）&lt;/div&gt;&lt;div&gt;完全培养基对照组&lt;/div&gt;&lt;div&gt;无精氨酸培养基组&lt;/div&gt;&lt;div&gt;精氨酸梯度回补组&lt;/div&gt;&lt;div&gt;无亮氨酸对照组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="640" y="680" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f8MsiV0pTiyCVByV6mbH-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f8MsiV0pTiyCVByV6mbH-10" target="f8MsiV0pTiyCVByV6mbH-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8MsiV0pTiyCVByV6mbH-10" value="&lt;div&gt;通路回复验证（SLC7A2 敲减）&lt;/div&gt;&lt;div&gt;完全培养基 + TY1 组&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;无精氨酸 + TY1 组&lt;/div&gt;&lt;div&gt;精氨酸梯度回补 + TY1 组&lt;/div&gt;&lt;div&gt;多胺回补 + TY1 组&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="750" y="680" width="150" height="110" as="geometry" />
